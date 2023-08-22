@@ -1,6 +1,6 @@
 <h1 align="center"> Erro 404 </h1>
 
-![Menssagem de um erro 404](https://github.com/GuilhermeMenezesSilva/Erro-404/assets/107522195/19b951a1-4d37-4314-a2f0-c2b7525adbe4)
+
 
 ## Descrição do Projeto
 Este projeto consiste em uma landing page personalizada para o erro 404, que é exibida quando uma página não é encontrada em um site. A página foi criada para oferecer uma experiência amigável e única aos usuários em caso de erro.
