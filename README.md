@@ -1,18 +1,26 @@
-# Erro 404
-Bem-vindo à página de erro 404 responsiva! Este projeto consiste em uma página de erro personalizada para situações em que o usuário acessa um link inválido ou inexistente.
+<h1 align="center"> Erro 404 </h1>
 
-## Demonstração
-![Demonstração da Página de Erro 404](https://github.com/GuilhermeMenezesSilva/Erro-404/raw/main/Captura%20de%20tela%202023-08-14%20114045.png)
+![Menssagem de um erro 404](https://github.com/GuilhermeMenezesSilva/Erro-404/assets/107522195/19b951a1-4d37-4314-a2f0-c2b7525adbe4)
 
+## Descrição do Projeto
+Este projeto consiste em uma landing page personalizada para o erro 404, que é exibida quando uma página não é encontrada em um site. A página foi criada para oferecer uma experiência amigável e única aos usuários em caso de erro.
 
-## Características
-- Página de erro personalizada com design responsivo.
-- Mensagem amigável explicando que o usuário acessou um site está indisponivel.
-- Utilização de `HTML` e `CSS` para a construção da página.
+## Status do Projeto
+<h4> 
+    :white_check_mark:  Projeto Finalizado  :white_check_mark:
+</h4>
 
-## Uso
-1. Clone ou baixe este repositório para o seu computador.
-2. Abra o arquivo `index.html` em um navegador da web.
+## Funcionalidades
+- Layout responsivo para diferentes dispositivos.
+- Mensagem amigável e design atraente para a página de erro.
+- Ilustração criativa para tornar a experiência do usuário mais agradável.
+
+## Acesso ao Projeto
+Você pode acessar a landing page através deste link: [https://guilhermemenezessilva.github.io/Erro-404/](https://guilhermemenezessilva.github.io/Erro-404/).
+
+## Tecnologias Utilizadas
+- ![HTML](https://img.shields.io/badge/HTML-5-orange)
+- ![CSS](https://img.shields.io/badge/CSS-3-blue)
 
 ## Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
